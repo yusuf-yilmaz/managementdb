@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{13B669BE-BB05-4DDF-9536-439F39A36129}") = "MonitoringDashboard", "MonitoringDashboard.phpproj", "{FC8DD92C-EE2C-4055-B780-6556AE46A07D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC8DD92C-EE2C-4055-B780-6556AE46A07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8DD92C-EE2C-4055-B780-6556AE46A07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8DD92C-EE2C-4055-B780-6556AE46A07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8DD92C-EE2C-4055-B780-6556AE46A07D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {594F4738-89B3-40A7-B2C6-E62DD69B3E91}
+	EndGlobalSection
+EndGlobal
